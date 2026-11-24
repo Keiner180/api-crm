@@ -158,6 +158,12 @@
       "lastName": "RODRÍGUEZ PEÑA"
     },
     {
+      "id": "a20rfrdentjfxwtoqnk67088",
+      "documentId": "123456788",
+      "firstName": "JUAN",
+      "lastName": "CASTILLO HERRERA"
+    },
+    {
       "id": "b13rfrdentjfxwtoqnk67099",
       "documentId": "9000999888",
       "firstName": "BEATRIZ",
@@ -393,6 +399,16 @@
       "agentId": "ag_carlos_mendoza",
       "dueDate": "2025-06-15",
       "balance": 345000,
+      "currency": "COP"
+    },
+    {
+      "id": "a99mn288x43j4wnn5r5wgm88",
+      "invoice": "186001",
+      "debtorId": "a20rfrdentjfxwtoqnk67088",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-07-20",
+      "balance": 5000000,
       "currency": "COP"
     }
   ]

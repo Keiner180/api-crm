@@ -168,6 +168,12 @@ export function createDefaultSeed(): DatabaseSchema {
       firstName: 'CARLOS',
       lastName: 'RODRÍGUEZ PEÑA',
     },
+    {
+      id: 'a20rfrdentjfxwtoqnk67088',
+      documentId: '123456788',
+      firstName: 'JUAN',
+      lastName: 'CASTILLO HERRERA',
+    },
     // Debtor assigned ONLY to Laura (used to verify 403 Forbidden for Carlos)
     {
       id: 'b13rfrdentjfxwtoqnk67099',
@@ -198,6 +204,17 @@ export function createDefaultSeed(): DatabaseSchema {
       agentId: 'ag_carlos_mendoza',
       dueDate: '2025-06-15',
       balance: 345000,
+      currency: 'COP',
+    },
+    // Carlos's debt for debtor 123456788 (balance: 5000000)
+    {
+      id: 'a99mn288x43j4wnn5r5wgm88',
+      invoice: '186001',
+      debtorId: 'a20rfrdentjfxwtoqnk67088',
+      companyId: 'd3r1iuat79db25b3bt0u3t05', // HIPER SALUD
+      agentId: 'ag_carlos_mendoza',
+      dueDate: '2025-07-20',
+      balance: 5000000,
       currency: 'COP',
     },
     // Second debt for David Castro assigned to Laura (to demonstrate shared debtor with distinct debts)
