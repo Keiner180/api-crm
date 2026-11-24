@@ -129,6 +129,18 @@ describe('CRM Demo API', () => {
       expect(res.body.debts[0].balance).toBe(5000000);
     });
 
+    it('returns debtor and debts for EmiteOS debtor 1038492019 in Carlos portfolio', async () => {
+      const res = await request(app)
+        .get('/api/v1/debtors/byDocumentId/1038492019')
+        .set('Authorization', `Bearer ${CARLOS_TOKEN}`);
+
+      expect(res.status).toBe(200);
+      expect(res.body.debtor.documentId).toBe('1038492019');
+      expect(res.body.debtor.firstName).toBe('VALERIA');
+      expect(res.body.debts.length).toBeGreaterThan(0);
+      expect(res.body.debts[0].balance).toBe(4100000);
+    });
+
     it('returns 404 NOT_FOUND if document contains letters', async () => {
       const res = await request(app)
         .get('/api/v1/debtors/byDocumentId/abc')
@@ -207,14 +219,14 @@ describe('CRM Demo API', () => {
   });
 
   describe('GET /api/v1/debtors (List and Pagination)', () => {
-    it('returns total 19 for Carlos Mendoza portfolio', async () => {
+    it('returns total 22 for Carlos Mendoza portfolio', async () => {
       const res = await request(app)
         .get('/api/v1/debtors')
         .set('Authorization', `Bearer ${CARLOS_TOKEN}`);
 
       expect(res.status).toBe(200);
-      expect(res.body.total).toBe(19);
-      expect(res.body.data.length).toBe(19);
+      expect(res.body.total).toBe(22);
+      expect(res.body.data.length).toBe(22);
       expect(res.body.nextCursor).toBeNull();
     });
 
@@ -224,7 +236,7 @@ describe('CRM Demo API', () => {
         .set('Authorization', `Bearer ${CARLOS_TOKEN}`);
 
       expect(page1.status).toBe(200);
-      expect(page1.body.total).toBe(19);
+      expect(page1.body.total).toBe(22);
       expect(page1.body.data.length).toBe(5);
       expect(page1.body.nextCursor).not.toBeNull();
 

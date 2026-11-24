@@ -46,6 +46,13 @@
       "lastName": "Romero",
       "email": "diego.romero@crm-demo.io",
       "token": "agt_s1t2u3v4w5x6y7z8a9b0c1d2e3f4g5h6"
+    },
+    {
+      "id": "ag_asesor_emiteos",
+      "firstName": "Asesor",
+      "lastName": "EmiteOS",
+      "email": "asesor.emiteos@solarisbpo.com",
+      "token": "agt_e1m2i3t4e5o6s7b8p9o0a1s2e3s4o5r6"
     }
   ],
   "debtors": [
@@ -164,6 +171,102 @@
       "lastName": "CASTILLO HERRERA"
     },
     {
+      "id": "b20rfrdentjfxwtoqnk67101",
+      "documentId": "1018475821",
+      "firstName": "ALFONSO",
+      "lastName": "RAMÍREZ VEGA"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67102",
+      "documentId": "1020485912",
+      "firstName": "CLAUDIA PATRICIA",
+      "lastName": "GÓMEZ"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67103",
+      "documentId": "79482910",
+      "firstName": "JAVIER EDUARDO",
+      "lastName": "MONTOYA"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67104",
+      "documentId": "52849102",
+      "firstName": "MARTHA LUCÍA",
+      "lastName": "SANTOS"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67105",
+      "documentId": "1032481920",
+      "firstName": "ANDRÉS FELIPE",
+      "lastName": "CASTRO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67106",
+      "documentId": "1017482931",
+      "firstName": "CAROLINA",
+      "lastName": "MORALES RICO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67107",
+      "documentId": "80491823",
+      "firstName": "HERNÁN DARÍO",
+      "lastName": "HENAO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67108",
+      "documentId": "1022948192",
+      "firstName": "DIANA MARCELA",
+      "lastName": "OSORIO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67109",
+      "documentId": "71829301",
+      "firstName": "RODRIGO ANTONIO",
+      "lastName": "CORREA"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67110",
+      "documentId": "1038492019",
+      "firstName": "VALERIA",
+      "lastName": "QUINTERO DUQUE"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67111",
+      "documentId": "52918234",
+      "firstName": "GLORIA INÉS",
+      "lastName": "CÁRDENAS"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67112",
+      "documentId": "1019283746",
+      "firstName": "SEBASTIÁN",
+      "lastName": "LONDOÑO TORO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67113",
+      "documentId": "1028374651",
+      "firstName": "PAULA ANDREA",
+      "lastName": "RESTREPO"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67114",
+      "documentId": "79384729",
+      "firstName": "MAURICIO ALBERTO",
+      "lastName": "GIL"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67115",
+      "documentId": "1037482910",
+      "firstName": "YULIANA ANDREA",
+      "lastName": "PARRA"
+    },
+    {
+      "id": "b20rfrdentjfxwtoqnk67116",
+      "documentId": "1016273849",
+      "firstName": "ESTEBAN CAMILO",
+      "lastName": "ROLDÁN"
+    },
+    {
       "id": "b13rfrdentjfxwtoqnk67099",
       "documentId": "9000999888",
       "firstName": "BEATRIZ",
@@ -179,216 +282,6 @@
       "agentId": "ag_carlos_mendoza",
       "dueDate": "2025-04-27",
       "balance": 269000,
-      "currency": "COP"
-    },
-    {
-      "id": "b99mn288x43j4wnn5r5wgmcz",
-      "invoice": "190450",
-      "debtorId": "a13rfrdentjfxwtoqnk67ahz",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_laura_restrepo",
-      "dueDate": "2025-05-15",
-      "balance": 450000,
-      "currency": "COP"
-    },
-    {
-      "id": "nm37gytdahw6hjds4ioew7x8",
-      "invoice": "185201",
-      "debtorId": "a20rfrdentjfxwtoqnk67001",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-02-15",
-      "balance": 162500,
-      "currency": "COP"
-    },
-    {
-      "id": "aufh4kq0l2gi7f52mg439rli",
-      "invoice": "240102",
-      "debtorId": "a20rfrdentjfxwtoqnk67002",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-03-20",
-      "balance": 350000,
-      "currency": "COP"
-    },
-    {
-      "id": "g2log6zxa54km06qkc44nrea",
-      "invoice": "185203",
-      "debtorId": "a20rfrdentjfxwtoqnk67003",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-04-15",
-      "balance": 187500,
-      "currency": "COP"
-    },
-    {
-      "id": "g176mjtsphedrjjqngsfe6ea",
-      "invoice": "240103",
-      "debtorId": "a20rfrdentjfxwtoqnk67003",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-04-20",
-      "balance": 365000,
-      "currency": "COP"
-    },
-    {
-      "id": "lkuu544ye0rf781bvds0gzxm",
-      "invoice": "240104",
-      "debtorId": "a20rfrdentjfxwtoqnk67004",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-05-20",
-      "balance": 380000,
-      "currency": "COP"
-    },
-    {
-      "id": "akh8mzus4s0emf3269xqn5dc",
-      "invoice": "185205",
-      "debtorId": "a20rfrdentjfxwtoqnk67005",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-06-15",
-      "balance": 212500,
-      "currency": "COP"
-    },
-    {
-      "id": "hos8t62vnm5enoox8ehdgrfm",
-      "invoice": "240106",
-      "debtorId": "a20rfrdentjfxwtoqnk67006",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-07-20",
-      "balance": 410000,
-      "currency": "COP"
-    },
-    {
-      "id": "masrj0xjlbmy1b8pxykjpzqu",
-      "invoice": "185207",
-      "debtorId": "a20rfrdentjfxwtoqnk67007",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-08-15",
-      "balance": 237500,
-      "currency": "COP"
-    },
-    {
-      "id": "k08iby1pf09l6fayvxab3pnp",
-      "invoice": "240107",
-      "debtorId": "a20rfrdentjfxwtoqnk67007",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-08-20",
-      "balance": 425000,
-      "currency": "COP"
-    },
-    {
-      "id": "bdmi93x2e7k55tyhkgiaxwk3",
-      "invoice": "240108",
-      "debtorId": "a20rfrdentjfxwtoqnk67008",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-09-20",
-      "balance": 440000,
-      "currency": "COP"
-    },
-    {
-      "id": "mdgxzmttx5tuf5fygfvtytc6",
-      "invoice": "185209",
-      "debtorId": "a20rfrdentjfxwtoqnk67009",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-02-15",
-      "balance": 262500,
-      "currency": "COP"
-    },
-    {
-      "id": "ykd6ko65j1z24ba53v7fo6jl",
-      "invoice": "240110",
-      "debtorId": "a20rfrdentjfxwtoqnk67010",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-02-20",
-      "balance": 470000,
-      "currency": "COP"
-    },
-    {
-      "id": "sasziq6enmq5k6icib6qzjfi",
-      "invoice": "185211",
-      "debtorId": "a20rfrdentjfxwtoqnk67011",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-04-15",
-      "balance": 287500,
-      "currency": "COP"
-    },
-    {
-      "id": "j2vsmrj4ock14vmkdo7kx7b9",
-      "invoice": "240112",
-      "debtorId": "a20rfrdentjfxwtoqnk67012",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-04-20",
-      "balance": 500000,
-      "currency": "COP"
-    },
-    {
-      "id": "p193ldi3zrryqdgmh5seqiaf",
-      "invoice": "185213",
-      "debtorId": "a20rfrdentjfxwtoqnk67013",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-06-15",
-      "balance": 312500,
-      "currency": "COP"
-    },
-    {
-      "id": "srnxlngzwkumzqqgivv3thm2",
-      "invoice": "240114",
-      "debtorId": "a20rfrdentjfxwtoqnk67014",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-06-20",
-      "balance": 530000,
-      "currency": "COP"
-    },
-    {
-      "id": "pod6d0yjr7lvv01fnm0t5dn1",
-      "invoice": "185215",
-      "debtorId": "a20rfrdentjfxwtoqnk67015",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-08-15",
-      "balance": 337500,
-      "currency": "COP"
-    },
-    {
-      "id": "ln8efedmhr9imawsbeanbqvr",
-      "invoice": "240116",
-      "debtorId": "a20rfrdentjfxwtoqnk67016",
-      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
-      "agentId": "ag_carlos_mendoza",
-      "dueDate": "2025-08-20",
-      "balance": 560000,
-      "currency": "COP"
-    },
-    {
-      "id": "c88mn288x43j4wnn5r5wgmcz",
-      "invoice": "998811",
-      "debtorId": "b13rfrdentjfxwtoqnk67099",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_laura_restrepo",
-      "dueDate": "2025-06-30",
-      "balance": 890000,
-      "currency": "COP"
-    },
-    {
-      "id": "h79ji3g11xuxoy3l3a71oper",
-      "invoice": "556677",
-      "debtorId": "a13rfrdentjfxwtoqnk67ahz",
-      "companyId": "d3r1iuat79db25b3bt0u3t05",
-      "agentId": "ag_marcos_giraldo",
-      "dueDate": "2025-07-10",
-      "balance": 120000,
       "currency": "COP"
     },
     {
@@ -409,6 +302,396 @@
       "agentId": "ag_carlos_mendoza",
       "dueDate": "2025-07-20",
       "balance": 5000000,
+      "currency": "COP"
+    },
+    {
+      "id": "b99mn288x43j4wnn5r5wgmcz",
+      "invoice": "190450",
+      "debtorId": "a13rfrdentjfxwtoqnk67ahz",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_laura_restrepo",
+      "dueDate": "2025-05-15",
+      "balance": 450000,
+      "currency": "COP"
+    },
+    {
+      "id": "uuv7mkv33svo8swt7qwnc85k",
+      "invoice": "185201",
+      "debtorId": "a20rfrdentjfxwtoqnk67001",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-02-15",
+      "balance": 162500,
+      "currency": "COP"
+    },
+    {
+      "id": "w9fg13rxgnl5jljlq3ss5r4v",
+      "invoice": "240102",
+      "debtorId": "a20rfrdentjfxwtoqnk67002",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-03-20",
+      "balance": 350000,
+      "currency": "COP"
+    },
+    {
+      "id": "g6laqh7oe4ayycygi1ue2g80",
+      "invoice": "185203",
+      "debtorId": "a20rfrdentjfxwtoqnk67003",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-04-15",
+      "balance": 187500,
+      "currency": "COP"
+    },
+    {
+      "id": "wubcs4ef460hcz3lfyfpnlt0",
+      "invoice": "240103",
+      "debtorId": "a20rfrdentjfxwtoqnk67003",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-04-20",
+      "balance": 365000,
+      "currency": "COP"
+    },
+    {
+      "id": "qkk6v2v02t8a8nsx37v5jb8l",
+      "invoice": "240104",
+      "debtorId": "a20rfrdentjfxwtoqnk67004",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-05-20",
+      "balance": 380000,
+      "currency": "COP"
+    },
+    {
+      "id": "xk4s5o6if85w78hhxkvgnolv",
+      "invoice": "185205",
+      "debtorId": "a20rfrdentjfxwtoqnk67005",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-06-15",
+      "balance": 212500,
+      "currency": "COP"
+    },
+    {
+      "id": "lf6p60npb3b86y097wpdfspt",
+      "invoice": "240106",
+      "debtorId": "a20rfrdentjfxwtoqnk67006",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-07-20",
+      "balance": 410000,
+      "currency": "COP"
+    },
+    {
+      "id": "a33gttkeqjixyq0jffhrnsqm",
+      "invoice": "185207",
+      "debtorId": "a20rfrdentjfxwtoqnk67007",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-08-15",
+      "balance": 237500,
+      "currency": "COP"
+    },
+    {
+      "id": "ucbr5h0nqjw2g7vmodo8vnqq",
+      "invoice": "240107",
+      "debtorId": "a20rfrdentjfxwtoqnk67007",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-08-20",
+      "balance": 425000,
+      "currency": "COP"
+    },
+    {
+      "id": "imsl9jswp0sbns01l1rrmbb2",
+      "invoice": "240108",
+      "debtorId": "a20rfrdentjfxwtoqnk67008",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-09-20",
+      "balance": 440000,
+      "currency": "COP"
+    },
+    {
+      "id": "n1u0f0andyyy5838fd02bix9",
+      "invoice": "185209",
+      "debtorId": "a20rfrdentjfxwtoqnk67009",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-02-15",
+      "balance": 262500,
+      "currency": "COP"
+    },
+    {
+      "id": "h7gjsbu7veljmfsjuqgkx5nw",
+      "invoice": "240110",
+      "debtorId": "a20rfrdentjfxwtoqnk67010",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-02-20",
+      "balance": 470000,
+      "currency": "COP"
+    },
+    {
+      "id": "ysv7ajlphvpslagugeiio1lv",
+      "invoice": "185211",
+      "debtorId": "a20rfrdentjfxwtoqnk67011",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-04-15",
+      "balance": 287500,
+      "currency": "COP"
+    },
+    {
+      "id": "p651hlsz7q9dc555rulm92hh",
+      "invoice": "240112",
+      "debtorId": "a20rfrdentjfxwtoqnk67012",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-04-20",
+      "balance": 500000,
+      "currency": "COP"
+    },
+    {
+      "id": "eqqii4o5rn1urcwsehy012hd",
+      "invoice": "185213",
+      "debtorId": "a20rfrdentjfxwtoqnk67013",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-06-15",
+      "balance": 312500,
+      "currency": "COP"
+    },
+    {
+      "id": "hlv8d7pzi1ktis6kx5ht55b2",
+      "invoice": "240114",
+      "debtorId": "a20rfrdentjfxwtoqnk67014",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-06-20",
+      "balance": 530000,
+      "currency": "COP"
+    },
+    {
+      "id": "om9sbs1jon2pozaddod2hmou",
+      "invoice": "185215",
+      "debtorId": "a20rfrdentjfxwtoqnk67015",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-08-15",
+      "balance": 337500,
+      "currency": "COP"
+    },
+    {
+      "id": "uhwhw40bsk7g0fojj5r19s4r",
+      "invoice": "240116",
+      "debtorId": "a20rfrdentjfxwtoqnk67016",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-08-20",
+      "balance": 560000,
+      "currency": "COP"
+    },
+    {
+      "id": "c88mn288x43j4wnn5r5wgmcz",
+      "invoice": "998811",
+      "debtorId": "b13rfrdentjfxwtoqnk67099",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_laura_restrepo",
+      "dueDate": "2025-06-30",
+      "balance": 890000,
+      "currency": "COP"
+    },
+    {
+      "id": "wvj5c1rsss7gpeadosikocu4",
+      "invoice": "556677",
+      "debtorId": "a13rfrdentjfxwtoqnk67ahz",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_marcos_giraldo",
+      "dueDate": "2025-07-10",
+      "balance": 120000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67201",
+      "invoice": "EXP-202611-01",
+      "debtorId": "b20rfrdentjfxwtoqnk67101",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_asesor_emiteos",
+      "dueDate": "2025-11-12",
+      "balance": 3600000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67202",
+      "invoice": "EXP-202611-02",
+      "debtorId": "b20rfrdentjfxwtoqnk67102",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_sofia_herrera",
+      "dueDate": "2025-11-08",
+      "balance": 2800000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67203",
+      "invoice": "EXP-202611-03",
+      "debtorId": "b20rfrdentjfxwtoqnk67103",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_diego_romero",
+      "dueDate": "2025-11-11",
+      "balance": 2400000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67204",
+      "invoice": "EXP-202611-04",
+      "debtorId": "b20rfrdentjfxwtoqnk67104",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_asesor_emiteos",
+      "dueDate": "2025-11-10",
+      "balance": 4200000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67205",
+      "invoice": "EXP-202611-05",
+      "debtorId": "b20rfrdentjfxwtoqnk67105",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_sofia_herrera",
+      "dueDate": "2025-11-27",
+      "balance": 4000000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67206",
+      "invoice": "EXP-202611-06",
+      "debtorId": "b20rfrdentjfxwtoqnk67106",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_diego_romero",
+      "dueDate": "2025-11-14",
+      "balance": 3100000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67207",
+      "invoice": "EXP-202611-07",
+      "debtorId": "b20rfrdentjfxwtoqnk67107",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_asesor_emiteos",
+      "dueDate": "2025-12-11",
+      "balance": 3900000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67208",
+      "invoice": "EXP-202611-08",
+      "debtorId": "b20rfrdentjfxwtoqnk67108",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_sofia_herrera",
+      "dueDate": "2025-11-19",
+      "balance": 3300000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67209",
+      "invoice": "EXP-202611-09",
+      "debtorId": "b20rfrdentjfxwtoqnk67109",
+      "companyId": "d3r1iuat79db25b3bt0u3t05",
+      "agentId": "ag_diego_romero",
+      "dueDate": "2025-12-10",
+      "balance": 2900000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67210",
+      "invoice": "EXP-202611-10",
+      "debtorId": "b20rfrdentjfxwtoqnk67110",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-11-08",
+      "balance": 4100000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67211",
+      "invoice": "EXP-202611-11",
+      "debtorId": "b20rfrdentjfxwtoqnk67111",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_laura_restrepo",
+      "dueDate": "2025-11-17",
+      "balance": 3500000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67212",
+      "invoice": "EXP-202611-12",
+      "debtorId": "b20rfrdentjfxwtoqnk67112",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_marcos_giraldo",
+      "dueDate": "2025-11-15",
+      "balance": 2600000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67213",
+      "invoice": "EXP-202611-13",
+      "debtorId": "b20rfrdentjfxwtoqnk67113",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-11-26",
+      "balance": 3800000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67214",
+      "invoice": "EXP-202611-14",
+      "debtorId": "b20rfrdentjfxwtoqnk67114",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_laura_restrepo",
+      "dueDate": "2025-11-16",
+      "balance": 3000000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67215",
+      "invoice": "EXP-202611-15",
+      "debtorId": "b20rfrdentjfxwtoqnk67115",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_marcos_giraldo",
+      "dueDate": "2025-12-11",
+      "balance": 4400000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67216",
+      "invoice": "EXP-202611-16",
+      "debtorId": "b20rfrdentjfxwtoqnk67116",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_carlos_mendoza",
+      "dueDate": "2025-11-19",
+      "balance": 3200000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67217",
+      "invoice": "EXP-202611-17",
+      "debtorId": "b20rfrdentjfxwtoqnk67102",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_laura_restrepo",
+      "dueDate": "2025-12-03",
+      "balance": 2700000,
+      "currency": "COP"
+    },
+    {
+      "id": "d20rfrdentjfxwtoqnk67218",
+      "invoice": "EXP-202611-18",
+      "debtorId": "b20rfrdentjfxwtoqnk67101",
+      "companyId": "ywipuj69fgbzn2dyfs0z5nxt",
+      "agentId": "ag_marcos_giraldo",
+      "dueDate": "2025-11-23",
+      "balance": 3700000,
       "currency": "COP"
     }
   ]
